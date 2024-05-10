@@ -16,6 +16,10 @@
   * Реализован класс <a href="https://github.com/Nephedov/9.Java/blob/main/src/main/java/ru/netology/json/FormDate.java">FormDate.java</a> описывающий объект "дата".
   * Реализован класс <a href="https://github.com/Nephedov/9.Java/blob/main/src/main/java/ru/netology/json/Post.java">Post.java</a> описывающий объект запроса. Одним из свойств имеющий объект FormDate.
 
+---
+---
+
+
 # Описание Задания 1. API (обязательное к выполнению)
 
 Вашей задачей будет разработать классы, описывающие объекты запроса анкеты на сервер, и продемонстрировать их работу в `Main`.
